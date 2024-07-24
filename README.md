@@ -12,6 +12,3 @@ Antes de comenzar, asegúrate de tener instaladas las siguientes herramientas:
 - [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
 - [matplotlib](https://matplotlib.org/stable/users/installing.html)
 
-Puedes instalar las dependencias necesarias ejecutando el siguiente comando:
-
-
