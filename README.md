@@ -6,11 +6,13 @@ Este documento proporciona una guía paso a paso sobre cómo desplegar un modelo
 
 Se debe asegurar que tiene las siguientes dependencias
 
-- [Python 3.7+](https://www.python.org/downloads/)
-- [pip](https://pip.pypa.io/en/stable/installation/)
-- [scikit-learn](https://scikit-learn.org/stable/install.html)
-- [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
-- [matplotlib](https://matplotlib.org/stable/users/installing.html)
+- Python 3.7+
+- scikit-learn
+- pandas
+- matplotlib
+- pickle
+- numpy
+- streamlit
 
 ```bash
 streamlit run app.py
