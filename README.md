@@ -13,6 +13,8 @@ Se debe asegurar que tiene las siguientes dependencias
 - pickle
 - numpy
 - streamlit
+  
+Para desplegar el modelo debe ejecutarse el disguiente comando CMD
 
 ```bash
 streamlit run app.py
